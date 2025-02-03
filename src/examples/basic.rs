@@ -1,0 +1,1 @@
+// Example on how to create an agent, integrating the base feed and agent
